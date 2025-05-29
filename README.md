@@ -1,2 +1,27 @@
-# PORTFOLIO-APP-WEBSITE
-The Portfolio Web Application is a dynamic and responsive website developed using Angular for the front-end and Node.js for the back-end, designed to showcase the developer's skills, projects, and professional experience. The application includes well structured sections such as "Home," "Portfolio," "Resume," and "Contact," providing a comprehensive view of the developer's capabilities. This project focuses on the development of a professional portfolio website using cutting-edge web technologies like Angular, Node.js, Bootstrap, and Git with the objective of creating a fully responsive, user-friendly, and visually appealing personal portfolio to showcase my skills, experience, and projects.The frontend of the website is designed using Angular, a powerful JavaScript framework that enhances the user experience through two-way data binding, component-based architecture, and single-page application features. The backend is powered by Node.js, which facilitates efficient development processes, handles dependencies, and allows seamless integration of various web components. Bootstrap is employed to ensure a responsive and modern design, making the site adaptable to different devices and screen sizes.Throughout the project, Git is used for version control, enabling efficient management of code changes, collaboration, and project tracking. The development environment is set up using VS Code, a robust code editor that supports efficient coding practices with its wide range of extensions and customization options.The portfolio website includes sections such as a brief introduction, detailed project showcases, skills, professional background, and contact information. It reflects my technical expertise and creativity, offering visitors an interactive experience.By completing this project, I have strengthened my understanding of Angular’s development environment, Node.js server-side integration, and responsive web design principles using Bootstrap, enhancing my readiness for future web development challenges. In addition, the project includes a well-defined RESTful API to manage dynamic data updates for the portfolio, such as adding or modifying project details and handling contact form submissions. The back-end server securely processes and stores form data, ensuring a robust communication flow between the front-end and back-end.
+# AngularPortfolioWebsite
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.11.
+
+## Development server
+
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+
+## Code scaffolding
+
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+
+## Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
